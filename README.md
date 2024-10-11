@@ -10,7 +10,9 @@ The dataset used for this analysis includes features related to network traffic,
 Data Loading: The dataset is loaded from CSV files, enabling subsequent analysis.
 Exploratory Data Analysis (EDA): An EDA was conducted to understand the distribution of the data and identify any patterns or anomalies.
 ## Model Development:
+
 Logistic Regression: A baseline model was built using logistic regression.
+
 Artificial Neural Networks (ANN): An ANN model was developed, which outperformed the logistic regression model.
 
 ## Prediction
