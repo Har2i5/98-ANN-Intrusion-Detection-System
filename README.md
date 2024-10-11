@@ -17,8 +17,11 @@ Artificial Neural Networks (ANN): An ANN model was developed, which outperformed
 
 ## Prediction
 The ANN model predicts probabilities for each instance in the test set.
+
 A threshold of 0.8 was applied to convert predicted probabilities into binary classifications:
+
 Anomaly (1): If the probability exceeds 0.8.
+
 Normal (0): If the probability is 0.8 or lower.
 
 ## Model Evaluation
