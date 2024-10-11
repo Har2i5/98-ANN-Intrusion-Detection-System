@@ -40,7 +40,7 @@ The trained model was saved for future use.
 ## Requirements
 To run this notebook, you will need the following Python libraries:
 
-Pandas-NumPy-Matplotlib-Seaborn-Scikit-learn-Keras (or TensorFlow)
+Pandas,NumPy,Matplotlib,Seaborn,Scikit-learn,Keras (or TensorFlow)
 
 ## Source
 
